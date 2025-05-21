@@ -20,3 +20,6 @@ Please consider citing our work if it is beneficial to your research.
 ## License
 
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Contact for Questions
+`arjhun.swaminathan@uni-tuebingen.de`, `mete.akguen@uni-tuebingen.de`
