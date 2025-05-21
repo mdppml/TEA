@@ -1,8 +1,6 @@
 # Targeted Edge-informed Attack (TEA)
 
-This repository contains the implementation of the targeted hard-label black-box adversarial attack introduced in our paper:
-
-> **Accelerating Targeted Hard-Label Adversarial Attacks in Low-Query Black-Box Settings**
+This repository is associated with the paper titled **["Accelerating Targeted Hard-Label Adversarial Attacks in Low-Query Black-Box Settings"](https://arxiv.org/)**.
 
 ## Contents
 
