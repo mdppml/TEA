@@ -1,21 +1,5 @@
 This directory contains the implementation and tutorial for the Targeted Edge-informed Attack (TEA).
 
-## Installation
-
-1. **Clone the repo** (if you haven’t already):
-
-   ```bash
-   git clone https://github.com/mdppml/TEA.git
-   cd TEA/ATTACK
-   ```
-
-2. **Create & activate the conda environment**:
-
-   ```bash
-   conda env create -f conda_environment.yml
-   conda activate tea
-   ```
-
 ## Contents
 
 * **TEA.py**
