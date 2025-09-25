@@ -1,7 +1,7 @@
 # SECURITY.md
 
 ## Overview
-This repository contains the reference implementation of TEA, a targeted hard-label adversarial attack against image classifiers. The work’s primary intent is scientific—studying robustness, evaluating defences, and understanding failure modes of modern vision models. However, the same techniques could be misused. This document sets out dual-use risks, safe-use expectations, and reporting channels.
+This repository contains the implementation of TEA, a targeted hard-label adversarial attack against image classifiers. The work’s primary intent is scientific—studying robustness, evaluating defences, and understanding failure modes of modern vision models. However, the same techniques could be misused. This document sets out dual-use risks, safe-use expectations, and reporting channels.
 
 ## Dual-Use Risk Assessment
 Potential misuse scenarios include:
@@ -38,8 +38,6 @@ Please include:
 - A clear description, minimal reproduction, and potential impact
 - Affected versions/commits and environment details
 - Suggested remediation or mitigating steps if available
-
-We follow coordinated disclosure principles and will acknowledge receipt as promptly as possible.
 
 ## License and Usage Terms
 - Default code license: MIT (see LICENSE).
