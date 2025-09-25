@@ -12,7 +12,12 @@ This repository is associated with the paper titled **["Accelerating Targeted Ha
 Please consider citing our work if it is beneficial to your research. 
 
 ```bibtex
-
+@article{swaminathan2025accelerating,
+  title={Accelerating Targeted Hard-Label Adversarial Attacks in Low-Query Black-Box Settings},
+  author={Swaminathan, Arjhun and Akg{\"u}n, Mete},
+  journal={arXiv preprint arXiv:2505.16313},
+  year={2025}
+}
 ```
 
 ## License
