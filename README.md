@@ -6,6 +6,7 @@ This repository is associated with the paper titled **["Accelerating Targeted Ha
 
 * **ATTACK/**: Core implementation and a detailed Jupyter notebook tutorial (`ATTACK/tutorial.ipynb`).
 * **ILSVRC2012\_val\_pairs/**: Five example image pairs from the ImageNet validation dataset used for the notebook tutorial.
+* **dataset_mappings/**: .txt files specifying the source–target image pairs for each dataset, exactly matching the pairs used in the experiments reported in the paper.
 
 ## Citation
 
